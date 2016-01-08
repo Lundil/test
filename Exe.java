@@ -1,4 +1,4 @@
-package pdf;
+
 import java.sql.*;
 public class Exe {
     public static void main(String[] args) throws SQLException {
